@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Gacha Starter</string>
+    <string name="app_headline">ガチャアプリの土台ができました</string>
+    <string name="app_description">次のステップとして、ガチャ演出や排出アイテムの一覧を追加できます。</string>
+    <string name="app_cta">ガチャを回す</string>
+    <string name="best_model_label">おすすめモデル</string>
+    <string name="best_model_placeholder">モデルを選定中...</string>
+    <string name="best_model_description_placeholder">4つの候補から最適なモデルを表示します。</string>
+</resources>
